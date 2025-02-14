@@ -1,0 +1,25 @@
+/vendor
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/.vagrant
+.phpunit.cache
+coverage
+.php-cs-fixer.cache
+
+# KodExplorer specific
+/data
+/public/vendor/kodexplorer
+.DS_Store
+Thumbs.db
